@@ -4,6 +4,6 @@ num2 = 20
 
 num3 = 30
 
-mum = 40
+mum4 = 40
 
 over
